@@ -1,0 +1,27 @@
+ <h3>Login</h3>
+        <p>Enter your username to login.</p>
+
+        <label for="uname">Username</label><br />
+        <input type="text" name="Username" placeholder="Username" /><br />
+        <a href="#">Forgot Username?</a>
+
+        <a href="#" class="btn">Continue</a><br />
+        <p>Don't have an account yet?</p><br />
+
+        <ion-icon name="mail-outline"></ion-icon><br />
+        <label for="Email us:">Email us:</label><br />
+        <a href="#">support@nchl.com.np</a><br />
+
+        <img src="nps-image.png"><br />
+        <span>Copyright &copy; Nepal Clearing House Limited. 2018-2022</p>
+
+
+
+
+          <div class="hero-img-box">
+            <img class="hero-img" alt="ConnectIPS logo" src="NCHL.png" />
+            <a href="#"><img src="apple.png" height="55" width="110" /></a>
+            <a href="#"><img src="images.png" height="50" width="100" /></a>
+          </div>
+
+          <ion-icon name="mail-outline" class="icon"></ion-icon>
